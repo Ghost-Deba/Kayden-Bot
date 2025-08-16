@@ -1,1 +1,1 @@
-# Kayden-Bot
+cd /sdcard/AboZopren/Zpy

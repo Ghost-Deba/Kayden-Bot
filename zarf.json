@@ -1,0 +1,22 @@
+{
+  "reaction": "شرح الاستخدام:\n.edit اسم ← لتعديل الاسم الجديد\n.edit وصف ← لتعديل الوصف\n.edit رسالة ← لتعديل الرسالة النهائية\n.edit منشن ← لتعديل رسالة المنشن\n.edit رياكت ← لتعديل التفاعل\n.edit صورة ← لتحديث صورة الزرف (رد على صورة)\n.edit صوت ← لتحديث ملف الصوت (رد على رسالة صوتية أو ملف صوتي)\n.edit [نوع] شغل/طفي ← لتشغيل أو تعطيل نوع معين\n\nيجب استخدام الأمر بالرد على الرسالة المناسبة.",
+  "reaction_status": "on",
+  "group": {
+    "status": "on",
+    "newSubject": "مزروف 𝐊𝐚𝐲𝐝𝐞𝐧 ❄️",
+    "newDescription": "𝐊𝐚𝐲𝐝𝐞𝐧 𝐈𝐬 𝐇𝐞𝐫𝐞 𝐍𝐢𝐠𝐠𝐚 ❄️\n\n---\n\nتبي تعرفوا كيف انزرفتوا؟ كل شي ينعرض هنا:\n\n𖠇 𝐊𝐚𝐲𝐝𝐞𝐧'𝐬 𝐒𝐡𝐨𝐰\n↬ chat.whatsapp.com/CELYisZ8tDXFovCsV9qe3F?mode=ac_t\n\n𖠇 𝐊𝐚𝐲𝐝𝐞𝐧 - 𝐂𝐡𝐚𝐭\n↬ chat.whatsapp.com/CELYisZ8tDXFovCsV9qe3F?mode=ac_t\n\n______\n\nLEADER ➸ 𝐊𝐚𝐲𝐝𝐞𝐧\nDEV ➸ 𝐍𝐨𝐫𝐭𝐡 𝐁𝐥𝐚𝐝𝐞"
+  },
+  "messages": {
+    "status": "on",
+    "mention": "Come Here",
+    "final": "تبي تعرف كيف انزرفت؟ خش هنا:\n\n𖠇 𝐊𝐚𝐲𝐝𝐞𝐧\n↬ chat.whatsapp.com/CELYisZ8tDXFovCsV9qe3F?mode=ac_t"
+  },
+  "media": {
+    "status": "on",
+    "image": "image.jpeg"
+  },
+  "audio": {
+    "file": "data/Kayden.mp3",
+    "status": "on"
+  }
+}
